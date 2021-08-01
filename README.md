@@ -14,6 +14,6 @@ Commands:
 
 **Edge cases: 1- If file entered is not found then it gives file does not exist error. 2- -n and -b are 2 options which are mutually exclusive so if user types both of them together only the first enter option should work.**
 
-**Ignore** 
+**Ignore** yet to be implemented features
 > node wcat filenamepath > filename2path => put all the content of filename into filename2 by overriding and also creates filename2 if it doesn't exist. 
 > node wcat filename >> filename2 => append all the content of filename into filename2 8- node wcat -s filename > filename2 =>get the file content of filename remove large spaces and save the output in filename2 
